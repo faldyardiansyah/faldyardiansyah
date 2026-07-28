@@ -1,9 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:1f1f2e,50:3b4261,100:7aa2f7&height=240&section=header&text=Hi,%20I'm%20Faldy%20Ardiansyah&fontSize=42&fontColor=ffffff&desc=Software%20Engineering%20Student%20%7C%20Mobile%20%26%20Web%20Developer%20%7C%20Backend%20Developer&descSize=16&descAlignY=62&animation=fadeIn&v=4" width="100%" alt="Header Banner"/>
+  <br/>
+  <h1>Hi, I'm Faldy Ardiansyah 👋</h1>
+  <h3>Software Engineering Student | Mobile & Web Developer | Backend Developer</h3>
+  <br/>
   
-  <br/><br/>
-
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=7aa2f7&center=true&vCenter=true&width=600&lines=Building+Mobile+Apps+with+Flutter+%26+GetX;Crafting+Web+Solutions+with+Laravel;Always+learning+something+new&v=4" alt="Typing SVG" />
+  <!-- Typing Animation -->
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=7aa2f7&center=true&vCenter=true&width=600&lines=Building+Mobile+Apps+with+Flutter+%26+GetX;Crafting+Web+Solutions+with+Laravel;Always+learning+something+new&v=5" alt="Typing SVG" />
 
 </div>
 
@@ -20,13 +22,7 @@
 ### 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://faldy-stats.vercel.app/api?username=faldyardiansyah&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&v=4" height="165" alt="GitHub Stats"/>
-  
-  <img src="https://faldy-stats.vercel.app/api/top-langs/?username=faldyardiansyah&layout=compact&theme=tokyonight&hide_border=true&v=4" height="165" alt="Top Languages"/>
-  
-  <br/><br/>
-  
-  <img src="https://streak-stats.demolab.com/?user=faldyardiansyah&theme=tokyonight&hide_border=true&v=4" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=faldyardiansyah&theme=tokyonight&hide_border=true&v=5" alt="GitHub Streak" />
 </div>
 
 ---
@@ -40,5 +36,5 @@
 ---
 
 <div align="center">
-  <i>Terima kasih sudah mampir jangan lupa follow</i>
+  <i>Terima kasih sudah mampir jangan lupa follow.</i>
 </div>
