@@ -17,9 +17,9 @@ jobs:
       - name: Generate contribution snake SVG
         uses: Platane/snk@v3
         with:
-          github_user_name: faldyardiansyah
+          github_user_name: faldyardiansyah 
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=#39ff14&color_dots=#0b0f17,#1e293b,#334155,#0ea5e9,#00ffcc
+            dist/github-contribution-grid-snake.svg?color_snake=#f7768e&color_dots=#1a1b26,#2e3047,#414868,#7aa2f7,#b4f9f8
 
       - name: Push SVG ke branch output
         uses: crazy-max/ghaction-github-pages@v4
