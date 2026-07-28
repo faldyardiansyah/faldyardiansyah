@@ -19,7 +19,7 @@ jobs:
         with:
           github_user_name: faldyardiansyah
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=#7dcfff&color_dots=#161b22,#ffffff,#e2e8f0,#94a3b8,#7dcfff
+            dist/github-contribution-grid-snake.svg?color_snake=#f7768e&color_dots=#ffffff,#161b22,#394b70,#7aa2f7,#7dcfff
 
       - name: Push SVG ke branch output
         uses: crazy-max/ghaction-github-pages@v4
