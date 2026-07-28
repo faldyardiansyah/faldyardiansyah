@@ -1,7 +1,9 @@
 <div align="center">
-
-  <!-- Modern Typography Header -->
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=32&pause=1000&color=7aa2f7&center=true&vCenter=true&width=800&height=100&lines=Hi,%20I'm%20Faldy%20Ardiansyah%20🚀;Software%20Engineering%20Student;Mobile%20%26%20Web%20Developer&v=9" alt="Typing SVG" />
+  <br/>
+  <h1>Hi, I'm Faldy Ardiansyah 👋</h1>
+  <p>🚀 <b>Software Engineering Student</b> | 📱 <b>Mobile & Web Developer</b></p>
+  <p><i>Building Mobile Apps with Flutter & GetX • Crafting Web Solutions with Laravel</i></p>
+  <br/>
 
 </div>
 
