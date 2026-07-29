@@ -12,7 +12,7 @@
 ### 🛠️ Tech Stack & Skills
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=go,dart,flutter,react,python,php,laravel,postman,firebase,git,github,docker,mysql,figma" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=go,dart,flutter,react,python,php,laravel,postman,firebase,git,github,docker,github-actions,mysql,figma" alt="Tech Stack" />
 </div>
 
 
