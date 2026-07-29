@@ -4,7 +4,6 @@
   <p>🚀 <b>Software Engineering Student</b> | 📱 <b>Mobile & Web Developer</b></p>
   <p><i>Building Mobile Apps with Flutter & GetX • Crafting Web Solutions with Laravel</i></p>
   <br/>
-
 </div>
 
 ---
@@ -12,9 +11,8 @@
 ### 🛠️ Tech Stack & Skills
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=go,dart,flutter,react,python,php,laravel,postman,firebase,git,github,docker,github-actions,mysql,figma" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=go,dart,flutter,react,python,php,laravel,postman,firebase,git,github,docker,mysql,figma" alt="Tech Stack" />
 </div>
-
 
 ---
 
@@ -46,7 +44,7 @@
 
 <div align="center">
   <a href="https://github.com/faldyardiansyah"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="mailto:faldy.ardiansyah3example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="mailto:faldy.ardiansyah@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 </div>
 
 ---
