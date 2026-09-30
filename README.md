@@ -27,11 +27,6 @@
 
   <!-- GitHub Streak -->
   <img src="https://streak-stats.demolab.com/?user=faldyardiansyah&theme=tokyonight&hide_border=true&v=9" alt="GitHub Streak" />
-  
-  <br/><br/>
-  
-  <!-- GitHub Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=faldyardiansyah&theme=tokyonight&bg_color=1a1b26&hide_border=true&v=9" width="100%" alt="Activity Graph" />
 
   <br/><br/>
 
