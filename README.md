@@ -1,7 +1,7 @@
 <div align="center">
   <br/>
   <h1>Hi, I'm Faldy Ardiansyah 👋</h1>
-  <p>🚀 <b>Software Engineering Student</b> | 📱 <b>Mobile & Back End Developer</b></p>
+  <p>🚀 <b>Software Engineering Student</b> | 📱 <b>Mobile & Backend Developer</b></p>
   <p><i>Building Mobile Apps with Flutter & GetX • Crafting Web Solutions with Laravel</i></p>
   <br/>
 </div>
