@@ -1,51 +1,146 @@
-<div align="center">
-  <br/>
-  <h1>Hi, I'm Faldy Ardiansyah 👋</h1>
-  <p>🚀 <b>Software Engineering Student</b> | 📱 <b>Mobile & Backend Developer</b></p>
-  <p><i>Building Mobile Apps with Flutter & GetX • Crafting Web Solutions with Laravel</i></p>
-  <br/>
-</div>
+ <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,40:1D4ED8,100:38BDF8&height=220&section=header&text=Faldy%20Ardiansyah&fontSize=45&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Mobile%20%26%20Backend%20Developer&descAlignY=60&descSize=14&animation=fadeIn" width="100%" alt="Blue neon header"/>
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!+%F0%9F%91%8B;Flutter+%26+GetX+Developer+%F0%9F%93%B1;Go+%26+Laravel+Backend+Developer+%E2%9A%99%EF%B8%8F;Building+Digital+Solutions+%F0%9F%9A%80;Code.+Learn.+Build.+Grow.+%F0%9F%92%99" alt="Typing animation"/>
 
-### 🛠️ Tech Stack & Skills
+<br/>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=go,dart,flutter,react,python,php,laravel,postman,firebase,git,github,docker,mysql,figma" alt="Tech Stack" />
-</div>
+<img src="https://img.shields.io/badge/Mobile-Flutter%20%26%20GetX-0284C7?style=for-the-badge&logo=flutter&logoColor=white" alt="Mobile"/>
+<img src="https://img.shields.io/badge/Backend-Go%20%26%20Laravel-1D4ED8?style=for-the-badge&logo=laravel&logoColor=white" alt="Backend"/>
+<img src="https://img.shields.io/badge/Status-Always%20Learning-38BDF8?style=for-the-badge&logo=github&logoColor=white" alt="Learning"/>
 
----
+<br/><br/>
 
-### 📊 GitHub Activity & Statistics
+<img src="https://komarev.com/ghpvc/?username=faldyardiansyah&label=PROFILE%20VISITORS&color=2563EB&style=flat-square" alt="Profile visitors"/>
 
-<div align="center">
-  <!-- GitHub Trophies -->
-  <img src="https://github-profile-trophies.vercel.app/?username=faldyardiansyah&theme=tokyonight&no-bg=true&margin-w=15&margin-h=15&v=9" alt="GitHub Trophies" />
-  
-  <br/><br/>
-
-  <!-- GitHub Streak -->
-  <img src="https://streak-stats.demolab.com/?user=faldyardiansyah&theme=tokyonight&hide_border=true&v=9" alt="GitHub Streak" />
-
-  <br/><br/>
-
-  <!-- Contribution Snake -->
-  <img src="https://raw.githubusercontent.com/faldyardiansyah/faldyardiansyah/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-
-
----
-
-### 🤝 Connect With Me
-
-<div align="center">
-  <a href="https://github.com/faldyardiansyah"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="mailto:faldy.ardiansyah@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 </div>
 
 ---
 
+## 💙 About Me
+
 <div align="center">
-  <i>Terima kasih sudah mampir jangan lupa follow</i>
+
+<img src="https://i.pinimg.com/1200x/32/e1/c2/32e1c2dc8d112b29bd39a951d7922f62.jpg" width="280" alt="My aesthetic profile image"/>
+
+*Welcome to my little corner of the coding world! ✨*
+
+</div>
+
+Hi! I'm **Faldy Ardiansyah**, a Software Engineering student at Politeknik Negeri Indramayu. I enjoy learning new technologies and building useful digital applications.
+
+- 🎓 Software Engineering Student
+- 📱 Mobile development with Flutter and GetX
+- ⚙️ Backend development with Go and Laravel
+- 🌐 Exploring React and modern web technologies
+- 🗄️ Working with MySQL and REST APIs
+- 🐳 Learning Docker and development workflows
+- 🚀 Always learning, building, and improving
+
+<div align="center">
+
+*"Code. Learn. Build. Grow."* 💙
+
+</div>
+
+---
+
+## 🛠️ Tech Stack & Skills
+
+<div align="center">
+
+**📱 Mobile Development**
+
+<img src="https://skillicons.dev/icons?i=flutter,dart&theme=dark" alt="Flutter and Dart"/>
+
+**⚙️ Backend Development**
+
+<img src="https://skillicons.dev/icons?i=go,php,laravel,mysql,firebase&theme=dark" alt="Backend stack"/>
+
+**🌐 Web Development**
+
+<img src="https://skillicons.dev/icons?i=react,html,css,js,python&theme=dark" alt="Web stack"/>
+
+**🔧 Tools & Workflow**
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,figma,vscode&theme=dark" alt="Development tools"/>
+
+</div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=faldyardiansyah&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020617&title_color=38BDF8&icon_color=60A5FA&text_color=CBD5E1&rank_icon=github" alt="GitHub statistics"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faldyardiansyah&layout=compact&theme=tokyonight&hide_border=true&bg_color=020617&title_color=38BDF8&text_color=CBD5E1" alt="Most used languages"/>
+
+<br/><br/>
+
+<img width="85%" src="https://streak-stats.demolab.com?user=faldyardiansyah&theme=tokyonight&hide_border=true&background=020617&ring=38BDF8&fire=60A5FA&currStreakLabel=38BDF8" alt="GitHub streak"/>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=faldyardiansyah&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=6" width="100%" alt="GitHub trophies"/>
+
+</div>
+
+---
+
+## 🐸 Frog Contribution Garden
+
+<div align="center">
+
+<img src="./frog-contribution.svg" width="100%" alt="Cute frog animation"/>
+
+**🐸 Hop • Collect • Keep Coding! 💙**
+
+<sub>Every little step counts. Keep learning, keep building, and keep growing!</sub>
+
+</div>
+
+---
+
+## 🌱 Currently Growing
+
+<div align="center">
+
+| 💎 Focus | 🚀 My Journey |
+|:---:|:---|
+| 📱 Mobile | Flutter & GetX |
+| ⚙️ Backend | Go, Laravel & REST APIs |
+| 🌐 Web | React & modern web technologies |
+| 🗄️ Database | MySQL & data integration |
+| 🔌 API Testing | Postman |
+| 🐳 DevOps | Docker & development workflows |
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/faldyardiansyah">
+  <img src="https://img.shields.io/badge/GitHub-Follow%20Me-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/>
+</a>
+
+<a href="mailto:faldy.ardiansyah@example.com">
+  <img src="https://img.shields.io/badge/Email-Let's%20Talk-2563EB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<br/><br/>
+
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" alt="Waving hand"/>
+
+### Thanks for visiting my profile! 💙
+
+*Jangan lupa follow kalau kamu suka karya dan project-ku. See you around! 🚀🐸*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:1D4ED8,100:020617&height=120&section=footer" width="100%" alt="Blue neon footer"/>
+
 </div>
