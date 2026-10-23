@@ -6,11 +6,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=600&lines=Flutter+%26+GetX+Developer;Go+%26+Laravel+Backend+Developer;Code.+Learn.+Build.+Grow." alt="Typing animation"/>
 
-</div>
-
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!+%F0%9F%91%8B;Flutter+%26+GetX+Developer+%F0%9F%93%B1;Go+%26+Laravel+Backend+Developer+%E2%9A%99%EF%B8%8F;Building+Digital+Solutions+%F0%9F%9A%80;Code.+Learn.+Build.+Grow.+%F0%9F%92%99" alt="Typing animation"/>
-
 <br/>
 
 <img src="https://img.shields.io/badge/Mobile-Flutter%20%26%20GetX-0284C7?style=for-the-badge&logo=flutter&logoColor=white" alt="Mobile"/>
